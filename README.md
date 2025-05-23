@@ -22,6 +22,11 @@ The HR wants to analyze employee attrition and satisfaction to identify key tren
   ## Dashboard
   <img width="533" alt="Screenshot 2025-05-23 204940" src="https://github.com/user-attachments/assets/d72a850c-2065-4e5c-bf56-d0a69af00762" />
 
+  ## HR Detailed view Dashboard
+  <img width="608" alt="Screenshot 2025-05-23 205121 2" src="https://github.com/user-attachments/assets/75d9226f-1239-41f4-8b25-85621db36600" />
+
+
+
 
 
   
