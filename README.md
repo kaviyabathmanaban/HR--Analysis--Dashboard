@@ -1,2 +1,3 @@
-# HR--Analysis--Dashboard
-This project involves building an interactive HR Analytics Dashboard using Power BI to analyze employee data and uncover patterns in attrition, job satisfaction, department performance, and more. The dataset contains information on 1000 employees, including their job roles, departments, satisfaction levels, and attrition status.
+# HR-Data-Analysis(Interactive Dashboard creation using PowerBI)
+## Project Objective
+The HR wants to analyze employee attrition and satisfaction to identify key trends this will support data-driven HR strategies to enhance retention and engagement
