@@ -20,7 +20,8 @@ The HR wants to analyze employee attrition and satisfaction to identify key tren
 - Detailed HR view: created a detailed view section for individual employee analysis,enabling deeper insights into performance and demographics
 
   ## Dashboard
-  "C:\Users\NTC\Pictures\Screenshot 2025-05-23 204940.png"
+  <img width="533" alt="Screenshot 2025-05-23 204940" src="https://github.com/user-attachments/assets/d72a850c-2065-4e5c-bf56-d0a69af00762" />
+
 
 
   
