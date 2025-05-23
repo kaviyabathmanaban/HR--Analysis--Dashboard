@@ -33,7 +33,9 @@ The HR wants to analyze employee attrition and satisfaction to identify key tren
   -Manager Relationship Indicator: Used to flag whether an employee has left.
   -Interactive Filters: Allow segmentation by department, gender, age, job satisfaction, and status.
 
- 
+ ## Final Conclusion
+The HR Analytics Dashboard enables HR teams to uncover meaningful insights into employee satisfaction, attrition risks, and departmental performance. It highlights the impact of overtime, role-specific satisfaction, and work environment on employee retention. With its interactive features and clear visual storytelling, the dashboard supports informed, data-driven HR strategies that can improve workforce stability and employee experience.
+
 
 
 
