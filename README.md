@@ -17,6 +17,10 @@ The HR wants to analyze employee attrition and satisfaction to identify key tren
 - Dashboard Devolpment: Desingned and built an interactive HR dashboard to visualize key HR metrics
 - Slicers integration: implemented slicers for dynamic filering of data by department,gender,etc
 - Measure Creation: Devoloped custom DAX measures for key metrics such as attrion percentage and age bucket
+- Detailed HR view: created a detailed view section for individual employee analysis,enabling deeper insights into performance and demographics
+
+  ## Dashboard
+  "C:\Users\NTC\Pictures\Screenshot 2025-05-23 204940.png"
 
 
   
