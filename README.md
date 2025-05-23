@@ -25,6 +25,19 @@ The HR wants to analyze employee attrition and satisfaction to identify key tren
   ## HR Detailed view Dashboard
   <img width="608" alt="Screenshot 2025-05-23 205121 2" src="https://github.com/user-attachments/assets/75d9226f-1239-41f4-8b25-85621db36600" />
 
+  ## Project Insights – HR Analytics Dashboard
+
+   - Attrition Rate: 18.9%, mostly among employees with low tenure or those working overtime.
+  -Job Satisfaction: Lowest in IT Executives (13.60%), highest in IT Managers (20.73%).
+  -Work Environment: Higher satisfaction correlates with lower attrition.
+  -Manager Relationship Indicator: Used to flag whether an employee has left.
+  -Interactive Filters: Allow segmentation by department, gender, age, job satisfaction, and status.
+
+ 
+
+
+
+
 
 
 
